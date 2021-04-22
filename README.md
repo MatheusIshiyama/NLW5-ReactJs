@@ -33,6 +33,10 @@ A segunda aula foi de explicação de como utilizar o `Typescript` no `React` e 
 
 A terceira aula foi para a gente finalizar a tela principal (_index_), fazer a tela de _episode_, onde podemos ver informações sobre o episódio e fazer a rota da página _index_ para a página de _episode_.
 
+**Aula 4**
+
+A quarta e penúltima aula a gente aprendeu muita coisa, vimos sobre o `Context` no `React`, sobre as `Ref's` de um componente _HTML_ no `React` e além disso a gente concluiu a parte de controle de _play_ e _pause_ do podcast.
+
 ---
 
 Agradecimento à **Rocketseat** 🚀 pelo evento incrível!💜
