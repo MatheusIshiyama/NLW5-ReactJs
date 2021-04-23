@@ -21,21 +21,25 @@ A proposta deste projeto é desenvolver um app de podcast com as tecnologias `Ne
 
 ## Conteúdo
 
-**Aula 1**
+**Dia 1**
 
-A primeira aula foi para apresentar as tecnologias `Next.js`, `React` e `Typescript`. Além de explicar sobre o projeto a ser desenvolvido e a respeito de componentes no `React` e sobre `Server-Side Rendering (SSR)` e `Static Site Generation (SSG)`.
+O primeiro dia foi para apresentar as tecnologias `Next.js`, `React` e `Typescript`. Além de explicar sobre o projeto a ser desenvolvido e a respeito de componentes no `React` e sobre `Server-Side Rendering (SSR)` e `Static Site Generation (SSG)`.
 
-**Aula 2**
+**Dia 2**
 
-A segunda aula foi de explicação de como utilizar o `Typescript` no `React` e também foi criado dois componentes, o _header_ e o _player_ que estará presente em boa parte das telas.
+O segundo dia foi de explicação de como utilizar o `Typescript` no `React` e também foi criado dois componentes, o _header_ e o _player_ que estará presente em boa parte das telas.
 
-**Aula 3**
+**Dia 3**
 
-A terceira aula foi para a gente finalizar a tela principal (_index_), fazer a tela de _episode_, onde podemos ver informações sobre o episódio e fazer a rota da página _index_ para a página de _episode_.
+O terceiro dia foi para a gente finalizar a tela principal (_index_), fazer a tela de _episode_, onde podemos ver informações sobre o episódio e fazer a rota da página _index_ para a página de _episode_.
 
-**Aula 4**
+**Dia 4**
 
-A quarta e penúltima aula a gente aprendeu muita coisa, vimos sobre o `Context` no `React`, sobre as `Ref's` de um componente _HTML_ no `React` e além disso a gente concluiu a parte de controle de _play_ e _pause_ do podcast.
+No quarto e penúltimo dia a gente aprendeu muita coisa, vimos sobre o `Context` no `React`, sobre as `Ref's` de um componente _HTML_ no `React` e além disso a gente concluiu a parte de controle de _play_ e _pause_ do podcast.
+
+**Dia 5**
+
+No último dia a gente concluiu a aplicação do podcast, implementando os controles do _player_ (_next_, _previous_, _loop_, _shuffle_ e o _slider_).
 
 ---
 
